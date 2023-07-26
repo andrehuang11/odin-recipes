@@ -1,1 +1,2 @@
 # odin-recipes
+This is a recipe project website that im doing as part of the curriculum of "The Odin Project" projects. By doing this project i will learn the basics of HTML and learn how to use git and commit the right way
